@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>ci-lab-job</name1>
+    <name>ci-lab-job</name>
     <description>A basic Java project for Jenkins CI</description>
 
     <properties>
